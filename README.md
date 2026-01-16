@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi, I’m Sangam</h1>
-<H5align="center"><br>
+<H5 align="center"><br>
 💻 Web Development & Programming
 <br>
 📈 Learning by building real projects
