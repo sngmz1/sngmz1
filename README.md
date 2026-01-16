@@ -1,6 +1,6 @@
 <h1 align="center">👋Hi, I’m Sangam</h1>
 <H3 ><br>
-💻 Web Development & Programming
+💻 Development & Programming
 <br>
 📈 Learning by building real projects
 <br>
