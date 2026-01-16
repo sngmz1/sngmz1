@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**sngmz1/sngmz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##👋 Hi, I’m Sangam
+💻 Web Development & Programming
+📈 Learning by building real projects
+🔗 Open to collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Developer + Growth Mindset
+
+👨‍💻 Aspiring Software Engineer
+🌱 Learning HTML, CSS, JavaScript & Algorithms
+🔁 Daily progress > perfection
+⚡ Turning ideas into code
+
+🔹 Confident & Sharp
+
+🚀 Developer in the making
+🧠 Code • Learn • Improve
+📂 Projects > Certificates
+🛠️ Exploring Web Dev & Problem Solving
