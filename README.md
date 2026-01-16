@@ -1,6 +1,5 @@
-
-
-##👋 Hi, I’m Sangam
+##<h1>👋Hi, I’m Sangam
+<br>
 💻 Web Development & Programming
 <br>
 📈 Learning by building real projects
