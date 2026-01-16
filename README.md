@@ -6,6 +6,7 @@
 <br>
 🔗 Open to collaboration
 <br>
+<br>
 
 🔹 Developer + Growth Mindset
 <br>
@@ -17,7 +18,7 @@
 <br>
 ⚡ Turning ideas into code
 <br>
-
+<br>
 
 🔹 Confident & Sharp
 <br>
