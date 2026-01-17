@@ -1,5 +1,6 @@
 <h1 align="center">👋Hi, I’m Sangam</h1>
 <H4 >
+🔹 Developer 
   <br>
 💻 Development & Programming
 <br>
@@ -9,7 +10,7 @@
 <br>
 <br>
 
-🔹 Developer + Growth Mindset
+🔹 Growth Mindset
 <br>
 👨‍💻 Aspiring Software Engineer
 <br>
