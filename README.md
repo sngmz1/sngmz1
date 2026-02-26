@@ -6,7 +6,7 @@
 <br>
 📈 Learning by building real projects
 <br>
-🔗 Open to collaboration
+🔗 Open to collaboration 
 <br>
 <br>
 
