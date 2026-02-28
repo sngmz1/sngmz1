@@ -7,7 +7,7 @@
 📈 Learning by building real projects
 <br>
 🔗 Open to collaboration 
-<br>
+<br> 
 <br>
 
 🔹 Growth Mindset
