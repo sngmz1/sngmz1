@@ -2,7 +2,7 @@
 <H4 > 
 🔹 Developer  
   <br>    
-💻 Development & Programming
+💻 Development & Programming 
 <br>
 📈 Learning by building real projects
 <br>
