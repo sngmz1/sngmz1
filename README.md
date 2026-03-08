@@ -1,6 +1,6 @@
 <h1 align="center">👋Hi, I’m Sangam </h1>
 <H4 > 
-🔹 Developer  
+🔹 Developer   
   <br>    
 💻 Development & Programming 
 <br>
